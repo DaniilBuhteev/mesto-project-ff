@@ -1,3 +1,3 @@
 # Проектная работа Mesto
 
-https://daniil-bukhteev.github.io/mesto-project-ff/
+https://DaniilBuhteev.github.io/mesto-project-ff/
