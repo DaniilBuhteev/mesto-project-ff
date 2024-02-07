@@ -1,0 +1,30 @@
+.description-input-error {
+  padding-top: 5px;
+  }
+
+.form__set {
+  border: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+.form__field {
+  border: none;
+}
+  
+.popup__error_visible {
+    color: red;
+  }
+  
+.popup__input.popup__input_type_error {
+    border-bottom: 1px solid red;
+    margin-bottom: 5px;
+}
+
+.popup__button_disabled {
+  pointer-events: none;
+  background-color: #fff;
+  color: #c4c4c4;
+  border: solid 1px #c4c4c4;
+}
